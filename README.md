@@ -3,7 +3,7 @@
 **Select Logs Dalet** is a lightweight PowerShell tool with a graphical interface that allows users to remotely browse and collect log folders from Dalet systems.  
 It is designed to simplify the process of identifying, selecting, and copying relevant log files for diagnostics, support, or auditing.
 
-> ⚠️ **Disclaimer:** This project is not affiliated with Dalet Digital Media Systems. See full disclaimer below.
+> ⚠️ **Disclaimer:** This project is not affiliated with Dalet Digital Media Systems.
 
 ---
 
